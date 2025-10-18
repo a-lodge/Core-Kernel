@@ -1,6 +1,6 @@
-# Core-Kernel
+#(this kernel probably wont be updated from now on as i am extremly busy, i might revisit in the future, as this was mostly just for fun.
 
-## IM CURRENTLY BUSY IRL, I WILL UPDATE SOON 
+#Core-Kernel
 
 ## Core is a minimalist modular kernel written from scratch, designed as a foundation for a modular OS.
 
